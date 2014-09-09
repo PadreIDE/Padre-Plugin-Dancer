@@ -19,7 +19,7 @@ no_index 'directory'       => qw{ t xt eg share inc};
 
 homepage 'http://padre.perlide.org/';
 bugtracker 'http://padre.perlide.org/';
-repository 'http://svn.perlide.org/padre/trunk/Padre-Plugin-Dancer';
+repository 'https://github.com/PadreIDE/Padre-Plugin-Dancer';
 
 # is_padre_plugin; # authors: Install Module::Install::PadrePlugin
 
